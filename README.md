@@ -31,6 +31,20 @@ Our analysis concluded that:
 
 ## Repository Structure
 
+Each file and directory is integral to the project:
+
+- **Data Extraction.ipynb**: This Jupyter notebook contains all the code for the initial data extraction phase, including comments and explanations for each step.
+  
+- **Heart Disease Diagnostic Analysis...**: A detailed report that walks you through the analytic process, from EDA to final insights. It may contain visualizations, interpretations, and conclusions based on the data.
+  
+- **README.md**: The document that provides an introduction and guide to the repository's contents.
+  
+- **cleveland_data.xlsx**: The Cleveland dataset, already processed and ready for analysis, is provided in a convenient Excel format.
+  
+- **heart+disease.zip**: The original raw datasets from multiple sources compiled into a single zip file for completeness and reproducibility.
+
+Feel free to navigate through the files to explore the data, understand the methodology, and replicate the results.
+
 
 ## Conclusion
 The intersection of data science and healthcare continues to show promise in diagnosing and understanding chronic diseases. This project exemplifies how data analysis can pave the way for informed healthcare decisions and strategic medical interventions.

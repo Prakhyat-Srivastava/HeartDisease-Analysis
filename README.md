@@ -51,8 +51,6 @@ Our analysis concluded that:
 The intersection of data science and healthcare continues to show promise in diagnosing and understanding chronic diseases. This project exemplifies how data analysis can pave the way for informed healthcare decisions and strategic medical interventions.
 
 
-## Future Directions
-To build on this foundation, we plan to integrate predictive modeling to assess individual risk factors more dynamically and potentially deploy a machine-learning-driven diagnostic tool.
-
-## Acknowledgements
-We extend our gratitude to the institutions and researchers who have compiled and made this invaluable heart disease dataset publicly accessible, facilitating this project's successful execution.
+## LinkedIn Post 📲
+https://www.linkedin.com/posts/prakhyat-nandan-srivastava_dataanalysis-python-internship-activity-7187197664571117568-AxE3?utm_source=share&utm_medium=member_desktop
+## Project Video

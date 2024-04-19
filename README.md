@@ -54,3 +54,4 @@ The intersection of data science and healthcare continues to show promise in dia
 ## LinkedIn Post 📲
 https://www.linkedin.com/posts/prakhyat-nandan-srivastava_dataanalysis-python-internship-activity-7187197664571117568-AxE3?utm_source=share&utm_medium=member_desktop
 ## Project Video
+https://youtu.be/FllwVoUYm3M

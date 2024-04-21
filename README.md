@@ -1,3 +1,5 @@
+![7  Dashboard image](https://github.com/Prakhyat-Srivastava/HeartDisease-Analysis/assets/72151469/98cfd2af-aefb-4a39-bde9-68eb0584d3b1)
+
 # Heart Disease Diagnostic Analysis
 
 # Technologies - Business Intelligence
